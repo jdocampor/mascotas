@@ -53,6 +53,12 @@ public class Main {
         System.out.println("Grupo: miercoles 9-12am");
     }
 
+    static void juanDiegoOcampo() {
+        System.out.println("Nombre: Juan Diego Ocampo");
+        System.out.println("Número de documento: 1017923386");
+        System.out.println("Grupo: viernes 6-9am");
+    }
+
 
     static void eliminarMascotas() {
     }
