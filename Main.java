@@ -55,7 +55,7 @@ public class Main {
     }
 
     static void juanDiegoOcampo() {
-        System.out.println("Nombre: Juan Diego Ocampo Ramirez");
+        System.out.println("Nombre: Juan Diego Ocampo Ramirez V.");
         System.out.println("Número de documento: 1017923386");
         System.out.println("Grupo: viernes 6-9am");
     }
