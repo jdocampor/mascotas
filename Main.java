@@ -4,7 +4,8 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
-        simonMartinez(;
+        simonMartinez();
+        juanDiegoOcampo();
         crearMascota();
         consultarMascotas();
 
@@ -54,7 +55,7 @@ public class Main {
     }
 
     static void juanDiegoOcampo() {
-        System.out.println("Nombre: Juan Diego Ocampo");
+        System.out.println("Nombre: Juan Diego Ocampo Ramirez");
         System.out.println("Número de documento: 1017923386");
         System.out.println("Grupo: viernes 6-9am");
     }
